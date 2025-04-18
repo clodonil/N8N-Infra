@@ -1,0 +1,4 @@
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=xxxxx
+OPENAI_API_KEY=xxxx
+WORKER_DB_URL=postgres://postgres:xxxxxxx@postgres:5432/vectordb
